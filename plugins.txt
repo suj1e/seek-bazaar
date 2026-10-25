@@ -4,3 +4,5 @@
 # 示例：
 # @scope/dsh-example
 # https://github.com/author/dsh-plugin
+dsh-m
+left-pad
